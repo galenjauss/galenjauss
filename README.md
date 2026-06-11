@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Galen 👋
+Designer-engineer — CS @ UC Irvine '28, Irvine CA. I design products in Figma, then ship them: mobile, web, and the APIs underneath.
 
-<!--
-**galenjauss/galenjauss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I'm building now
+Mojo — a cross-platform companion app for CNMAA, a martial-arts nonprofit.
 
-Here are some ideas to get you started:
+One React Native Expo TypeScript codebase serving iOS, Android, and web; Supabase (Postgres/Auth/Storage/RLS), Mux video, EAS → TestFlight. In beta with real students and instructors. (Private repo — happy to walk through the architecture.)
+Recent work
+🏆 Snip — AI video editor that detects retakes, filler words, and false starts, and stitches the cleanest take. Hacker's Choice 3rd @ PantherHacks 2026. SvelteKit + Svelte 5 runes, AssemblyAI, GPT-5.5 — live on Vercel
+🏆 Loupe — "Most Novel" @ UCI Designathon 2026. AR assistant for people with cognitive decline, reframed around a family-as-configurator model. Design system, caregiver interviews, end-to-end Figma prototype.
+♻️ ZotBins — Mobile & API subteam lead on UCI's smart-waste platform: 3-microservice pipeline (FastAPI · C# · Detectron2), 14 REST endpoints, shipped to the App Store and Play Store. (Team repo is private.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack I reach for
+TypeScript · React Native + Expo · SvelteKit / Svelte 5 · Supabase · FastAPI · Python · C# · Figma
+
+Off-keyboard
+Martial arts instructor since 2021 — I teach kids ages 3–16.
+
+Find me
+LinkedIn · galenjauss@gmail.com
