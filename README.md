@@ -1,7 +1,7 @@
 # Hi, I'm Galen 👋
 
-**CS @ UC Irvine '28**, Irvine CA. I design products in Figma, then ship
-them: mobile, web, and the APIs underneath.
+**CS @ UC Irvine '28**, Irvine CA. I love designing products and shipping
+them end-to-end, especially mobile applications.
 
 ## What I'm building now
 
