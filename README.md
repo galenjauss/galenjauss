@@ -5,7 +5,7 @@ them end-to-end, especially mobile applications.
 
 ## What I'm building now
 
-**[Konjo](https://getkonjo.com/)** — a cross-platform companion app for CNMAA, a martial-arts nonprofit. 
+**[Konjo](https://getkonjo.com/)** — a cross-platform martial arts management and training app. 
 One React Native + Expo TypeScript codebase serving iOS, Android, and web; Supabase (Postgres/Auth/Storage/RLS),
 Mux video, EAS → TestFlight. In beta with real students and instructors.
 *(Private repo)*
